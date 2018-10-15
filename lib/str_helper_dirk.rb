@@ -1,8 +1,8 @@
 require "str_helper_dirk/version"
 
 module StrHelperDirk
-  def self.revsersify(str)
-    srt.split('').reverse.join('')
+  def self.reversify(str)
+    str.split('').reverse.join('')
   end
 
   def self.casify(str)
