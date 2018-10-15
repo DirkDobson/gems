@@ -1,7 +1,7 @@
 require "str_helper_dirk/version"
 
 module StrHelperDirk
-  def self.revsersity(str)
+  def self.revsersify(str)
     srt.split('').reverse.join('')
   end
 
