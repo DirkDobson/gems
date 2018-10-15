@@ -1,4 +1,5 @@
 require "str_helper_dirk/version"
+require "str_helper_dirk/greeting"
 
 module StrHelperDirk
   def self.reversify(str)
